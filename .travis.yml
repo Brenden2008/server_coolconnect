@@ -14,4 +14,4 @@ install:
   - pip install Django==1.11.17
 # command to run tests
 script:
-  - cc_serv.py
+  - python server_coolconnect/main/views.py
