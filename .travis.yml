@@ -11,7 +11,6 @@ python:
   - "3.7-dev"  # 3.7 development branch
 # command to install dependencies
 install:
-  
   - pip install Django
 # command to run tests
 script:
