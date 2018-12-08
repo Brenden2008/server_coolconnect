@@ -17,5 +17,5 @@ script:
   - python cc_serv.py
   - python -m django --version
   - curl ifconfig.me
-  - python manage.py runserver
   - django-admin startproject mysite
+  - python manage.py runserver
