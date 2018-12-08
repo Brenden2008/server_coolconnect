@@ -14,4 +14,4 @@ install:
   - pip install Django==2.1.4
 # command to run tests
 script:
-  - pytest
+  - cc_serv.py
